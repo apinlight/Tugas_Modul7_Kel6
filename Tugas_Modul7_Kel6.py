@@ -86,7 +86,6 @@ while count == 0:
             count = 0
     elif pilihan1 == 3 :
         print("\nTerimakasih telah menggunakan program! ^_^\n")
-        break
     else:
         print ("\nPilihan tidak tersedia\n")
         count = 0
